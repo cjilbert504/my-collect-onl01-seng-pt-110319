@@ -5,7 +5,7 @@ def my_collect(array)
     counter = 0
      counter < array.length
     mod_array << array[counter]
-  end
     counter += 1
+  end
   mod_array
 end

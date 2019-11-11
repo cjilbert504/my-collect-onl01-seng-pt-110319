@@ -1,9 +1,10 @@
 
 def my_collect(array)
   mod_array = []
+  counter = 0
   while
-    counter = 0
-     counter < array.length
+    
+    counter < array.length
     mod_array << array[counter]
     counter += 1
   end
